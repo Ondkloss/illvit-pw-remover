@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "Illvit Paywall Remover",
+        "description": "Illvit Paywall Remover"
+    },
+    "appDesc": {
+        "message": "Removes Illvit paywall notice and re-enables scroll",
+        "description": "Removes Illvit paywall notice and re-enables scroll"
+    }
+}
